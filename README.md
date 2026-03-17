@@ -12,10 +12,10 @@
 
 ## 🌸 Who am I?
 
-just a creative soul who loves turning ideas into beautiful web experiences 💜
-somewhere between a beginner and intermediate — figuring it out one project at a time 🌌
+just a creative soul who loves turning ideas into beautiful web experiences 💜 <br>
+somewhere between a beginner and intermediate — figuring it out one project at a time 🌌 <br>
 
-no personal details here — just code, creativity, and a love for all things celestial 🌠
+no personal details here — just code, creativity, and a love for all things celestial 🌠 <br>
 
 ---
 
