@@ -57,10 +57,10 @@ const AstroCelestial = {
 
 ## 🪄 Fun facts about me...
 
-- 🌌 i code for the love of it — this is purely a hobby
-- 🎀 pink & purple aren't just colors, they're a *vibe*
-- ✨ i believe good design is just as important as good code
-- 🌙 celestial things make everything better
+- 🌌 I code for the love of it — this is purely a hobby
+- 🎀 Pink & Purple aren't just colors, they're a *vibe*
+- ✨ I believe good design is just as important as good code
+- 🌙 Celestial things make everything better
 
 ---
 
