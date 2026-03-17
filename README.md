@@ -19,7 +19,7 @@ no personal details here — just code, creativity, and a love for all things ce
 
 ---
 
-## 🛠️ Here is what I am working with...
+## 🛠️ Here is what I am learning...
 
 <div align="center">
 
@@ -33,7 +33,7 @@ no personal details here — just code, creativity, and a love for all things ce
 
 ---
 
-## 🌷 Here is my focusing...
+## 🌷 My main focus...
 
 ```javascript
 const AstroCelestial = {
@@ -47,7 +47,7 @@ const AstroCelestial = {
 
 ---
 
-## 🌙 Here are my projects...
+## 🌙 My Projects...
 
 | ✨ project | 🔍 description | 🛠️ tools |
 |---|---|---|
@@ -56,7 +56,7 @@ const AstroCelestial = {
 
 ---
 
-## 🪄 Here are some fun facts about me...
+## 🪄 Fun facts about me...
 
 - 🌌 i code for the love of it — this is purely a hobby
 - 🎀 pink & purple aren't just colors, they're a *vibe*
