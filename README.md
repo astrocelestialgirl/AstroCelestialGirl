@@ -2,7 +2,7 @@
 
 # 🌙 Hello, I am AstroCelestial
 
-> *"Building pretty things on the internet, one pixel at a time"* ✨
+> *"Building pretty things on the internet, one pixel at a time"* ✨ 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=D48EF7&center=true&vCenter=true&width=500&lines=front-end+dev+in+progress+%F0%9F%8C%B8;HTML+%26+CSS+enthusiast+%F0%9F%92%9C;learning+JavaScript+%26+React+%F0%9F%8C%99;making+the+web+a+cuter+place+%E2%9C%A8)
 
