@@ -50,7 +50,7 @@ const AstroCelestial = {
 
 | ✨ project | 🔍 description | 🛠️ tools |
 |---|---|---|
-| 🌸 *coming soon...* | currently building something cute | HTML, CSS |
+| 🌸 About Me Page | A single page about me | HTML, CSS |
 | 🌙 *stay tuned* | more in the works! | — |
 
 ---
